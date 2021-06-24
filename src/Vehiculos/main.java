@@ -8,7 +8,7 @@ public class main {
         Scanner lector = new Scanner(System.in);
         ArrayList<String> carros = new ArrayList<>();
         ArrayList tiposAutos = new ArrayList();
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 20; i++) {
             System.out.println("1");
             System.out.println("2");
             System.out.println("3");
